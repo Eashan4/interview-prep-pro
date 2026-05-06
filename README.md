@@ -106,7 +106,7 @@ An AI-powered interview simulator that analyzes your speech, body language, and 
    - Mixed: Combination of both
 
 3. **Set Duration**
-   - 5, 10, or 15 minutes practice sessions
+   - 5, 10, and 15 minutes practice sessions
 
 4. **Start Interview**
    - Answer AI-generated questions
